@@ -198,9 +198,8 @@ list.forEach(n -> {
 * Supports functional programming concepts like higher-order functions and immutability.
 
 ---
-Sure! Here's the updated **References** section with **Javatpoint** and **W3Schools** added:
 
----
+
 
 ## 📚 References
 
